@@ -25,4 +25,5 @@
 - [LinkedIn](https://www.linkedin.com/in/%EA%B4%91%EC%9A%B4-%EC%9D%B4-072355229/)
 - [Blog](https://velog.io/@woony)
 
+<img src="https://github.com/Leegwangwoon/Leegwangwoon/dist/github-contribution-grid-snake.svg"/>
 <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/output/github-contribution-grid-snake.svg"/>
