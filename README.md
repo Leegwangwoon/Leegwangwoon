@@ -1,4 +1,4 @@
-![Welcome to Woony's GitHub](https://github.com/Leegwangwoon/Leegwangwoon/blob/main/image/welcome.gif)
+![Welcome to Woony's GitHub](https://github.com/Leegwangwoon/Leegwangwoon/blob/main/image/welcom2.jpg)
 
 
 ### Mathematics Major | AI & Cryptography Lover
