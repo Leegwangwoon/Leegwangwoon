@@ -1,5 +1,5 @@
 ![Waving Capsule](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header)
-<img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/main/image/welcom2.jpg" width="850">
+<img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/main/image/welcome3.gif" width="850">
 
 
 ### Mathematics Major | AI & Cryptography Lover
