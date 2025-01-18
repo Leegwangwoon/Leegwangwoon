@@ -15,7 +15,7 @@
 
 
 ## 💻 Recent GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leegwangwoon&bg_color=ffffff&color=0366d6&line=0366d6&point=ffffff&area=true&area_color=36e7ff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leegwangwoon&bg_color=1a1a1a&color=00ff99&line=ff00ff&point=ffffff&area=true&area_color=0066ff)
 
 ## 📝 Papers
 - [Leopard: Sublinear Verifier Inner Product Argument Under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/abstract/document/10198341)  
