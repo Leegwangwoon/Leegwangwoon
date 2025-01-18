@@ -1,4 +1,5 @@
-![Welcome to Woony's GitHub](https://github.com/Leegwangwoon/Leegwangwoon/blob/main/image/welcom2.jpg)
+![Waving Capsule](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header)
+<img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/main/image/welcom2.jpg" width="850">
 
 
 ### Mathematics Major | AI & Cryptography Lover
@@ -37,3 +38,6 @@
 - [Blog](https://velog.io/@woony)
 
 <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/output/github-contribution-grid-snake.svg"/>
+
+![Waving Capsule](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer)
+
