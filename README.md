@@ -8,16 +8,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
-![Woony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegwangwoon&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leegwangwoon&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
+![Woony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegwangwoon&count_private=true&show_icons=true&theme=cobalt)
 
 ## 🎮 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=woony&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Leegwangwoon&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 💻 Recent GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=woony&bg_color=ffffff&color=0366d6&line=0366d6&point=ffffff&area=true&area_color=36e7ff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leegwangwoon&bg_color=ffffff&color=0366d6&line=0366d6&point=ffffff&area=true&area_color=36e7ff)
 
 ## 📝 Papers
 - [Leopard: Sublinear Verifier Inner Product Argument Under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/abstract/document/10198341)  
