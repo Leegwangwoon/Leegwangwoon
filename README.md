@@ -31,14 +31,17 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leegwangwoon&bg_color=1a1a1a&color=00ff99&line=ff00ff&point=ffffff&area=true&area_color=0066ff)
 
 ## 📝 Papers
-- [Leopard: Sublinear Verifier Inner Product Argument Under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/abstract/document/10198341)  
+- [Leopard: Sublinear Verifier Inner Product Argument Under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/abstract/document/10198341)
+  
 - [Monitoring Provenance of Delegated Personal Data with Blockchain](https://ieeexplore.ieee.org/abstract/document/9881821)  
 
 ## 🌍 Social Media
 - [LinkedIn](https://www.linkedin.com/in/%EA%B4%91%EC%9A%B4-%EC%9D%B4-072355229/)
+  
 - [Blog](https://velog.io/@woony)
+
+![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=blue&name=Woony(Leegwangwoon)&job=M.S.%20in%20Mathematics&company=&address=Seoul%2C%20Republic%20of%20Korea&about=&email=leegwangoon%40naver.com&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EA%25B4%2591%25EC%259A%25B4-%25EC%259D%25B4-072355229%2F)
 
 <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/output/github-contribution-grid-snake.svg"/>
 
-![Waving Capsule](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer)
 
