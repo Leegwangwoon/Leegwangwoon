@@ -122,7 +122,6 @@
   
 - [Blog](https://velog.io/@woony)
 
-![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=blue&name=Woony(Leegwangwoon)&job=M.S.%20in%20Mathematics&company=&address=Seoul%2C%20Republic%20of%20Korea&about=&email=leegwangoon%40naver.com&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EA%25B4%2591%25EC%259A%25B4-%25EC%259D%25B4-072355229%2F)
 
 <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/output/github-contribution-grid-snake.svg"/>
 
