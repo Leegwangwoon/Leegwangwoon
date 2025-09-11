@@ -1,32 +1,21 @@
 ![Waving Capsule](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header)
 <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/main/image/welcome3.gif" width="850">
 
-
 ### Mathematics Major | AI & Cryptography Lover
+
+---
 
 ## 🛠️ Technologies & Tools
 
-🧑‍💻 Programming Languages
+### 🧑‍💻 Programming Languages
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  </a>
-  <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  </a>
-</p
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
 
 ---
 
@@ -52,13 +41,24 @@
 
 <br>
 
-### 🗄️ Vector, Database, & Text Parsing 
+### 🗄️ Vector, Database, & Text Parsing
 <p align="center">
   <img src="https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=qdrant&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=FAISS&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/pdfplumber-1A237E?style=for-the-badge&logo=pdf&logoColor=white"/>
+</p>
+
+<br>
+
+### ✅ OCR Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/EasyOCR-222222?style=for-the-badge&logo=python&logoColor=white" alt="EasyOCR"/>
+  <img src="https://img.shields.io/badge/Tesseract-5A5A5A?style=for-the-badge&logo=tesseract&logoColor=white" alt="Tesseract"/>
+  <img src="https://img.shields.io/badge/PaddleOCR-0033FF?style=for-the-badge&logo=python&logoColor=white" alt="PaddleOCR"/>
+  <img src="https://img.shields.io/badge/EasyOCR+TrOCR-6F42C1?style=for-the-badge&logo=python&logoColor=white" alt="EasyOCR+TrOCR"/>
+  <img src="https://img.shields.io/badge/Google%20Vision%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Vision OCR"/>
 </p>
 
 <br>
@@ -96,23 +96,26 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+</p>
+
 </div>
-
-
 
 ---
 
 ## 📊 GitHub Stats
 ![Woony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegwangwoon&count_private=true&show_icons=true&theme=cobalt)
 
-## 🎮 GitHub Trophies
+## 🏆 GitHub Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Leegwangwoon&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## 💻 Recent GitHub Activity
+## 🔥 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leegwangwoon&bg_color=1a1a1a&color=00ff99&line=ff00ff&point=ffffff&area=true&area_color=0066ff)
 
-## 📝 Papers
+---
+
+## 📄 Papers
 - [Leopard: Sublinear Verifier Inner Product Argument Under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/abstract/document/10198341)
   
 - [Monitoring Provenance of Delegated Personal Data with Blockchain](https://ieeexplore.ieee.org/abstract/document/9881821)  
@@ -122,7 +125,5 @@
   
 - [Blog](https://velog.io/@woony)
 
-
 <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/output/github-contribution-grid-snake.svg"/>
-
 
