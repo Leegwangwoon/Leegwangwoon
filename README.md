@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/LangGraph-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/Qwen2.5--7B-FFB300?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Qwen2.5"/>
+   <img src="https://img.shields.io/badge/KanaNa-FF6699?style=for-the-badge&logo=pytorch&logoColor=white" alt="Kanana"/>
   <img src="https://img.shields.io/badge/Qwen2.5--VL-FFB300?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Qwen2.5-VL"/>
   <img src="https://img.shields.io/badge/KoSimCSE-00599C?style=for-the-badge&logo=pytorch&logoColor=white" alt="BM-K/KoSimCSE"/>
 </p>
@@ -58,7 +59,6 @@
   <img src="https://img.shields.io/badge/JaeminAI_2.5_Preview-8e44ad?style=for-the-badge&logo=python&logoColor=white" alt="JaeminAI 2.5 Preview"/>
   <img src="https://img.shields.io/badge/ElevenLabs-2ecc71?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
   <img src="https://img.shields.io/badge/WhisperX-5A5A5A?style=for-the-badge&logo=whisper&logoColor=white" alt="WhisperX"/>
-  <img src="https://img.shields.io/badge/KanaNa-FF6699?style=for-the-badge&logo=pytorch&logoColor=white" alt="KanaNa"/>
 </p>
 <p align="center">
   <strong>OCR</strong><br>
