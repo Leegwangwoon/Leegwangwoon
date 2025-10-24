@@ -53,6 +53,7 @@
    <img src="https://img.shields.io/badge/KanaNa-FF6699?style=for-the-badge&logo=pytorch&logoColor=white" alt="Kanana"/>
   <img src="https://img.shields.io/badge/Qwen2.5--VL-FFB300?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Qwen2.5-VL"/>
   <img src="https://img.shields.io/badge/KoSimCSE-00599C?style=for-the-badge&logo=pytorch&logoColor=white" alt="BM-K/KoSimCSE"/>
+  <img src="https://img.shields.io/badge/vllm-5A2A6F?style=for-the-badge&logo=python&logoColor=white" alt="vllm"/>
 </p>
 <p align="center">
   <strong>Speech (TTS/STT)</strong><br>
@@ -67,6 +68,7 @@
   <img src="https://img.shields.io/badge/Google_Vision_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Vision OCR" />
   <img src="https://img.shields.io/badge/PaddleOCR-0033FF?style=for-the-badge&logo=python&logoColor=white" alt="PaddleOCR" />
   <img src="https://img.shields.io/badge/Tesseract-5A5A5A?style=for-the-badge&logo=tesseract&logoColor=white" alt="Tesseract" />
+  <img src="https://img.shields.io/badge/DeepSeek_OCR-3A7CFF?style=for-the-badge&logo=python&logoColor=white" alt="DeepSeek OCR" />
 </p>
 </details>
 
@@ -146,7 +148,7 @@
   <p>
     <a href="https://www.linkedin.com/in/%EA%B4%91%EC%9A%B4-%EC%9D%B4-072355229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://velog.io/@woony"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
-    <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:leegwangwoon@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 </div>
 
@@ -155,3 +157,4 @@
 <div align="center">
   <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
