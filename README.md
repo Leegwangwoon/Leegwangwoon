@@ -140,11 +140,11 @@
 
 ---
 
-## 📫 Let's Connect! (연락처)
+## 📫 Let's Connect! 
 
 <div align="center" style="background-color: #f6f8fa; padding: 20px; border-radius: 10px;">
   <h2>📫 Let's Connect!</h2>
-  <p>새로운 기술, 흥미로운 프로젝트에 대한 이야기라면 언제나 환영입니다! <br> 편하게 연락 주세요.</p>
+  <p>새로운 기술, 흥미로운 프로젝트에 대한 이야기 언제나 환영입니다! <br> 편하게 연락 주세요.</p>
   <p>
     <a href="https://www.linkedin.com/in/%EA%B4%91%EC%9A%B4-%EC%9D%B4-072355229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://velog.io/@woony"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
