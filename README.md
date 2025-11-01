@@ -126,7 +126,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leegwangwoon&count_private=true&show_icons=true&theme=nord" alt="Woony's GitHub stats" />
