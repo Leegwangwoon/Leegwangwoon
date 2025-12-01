@@ -118,10 +118,10 @@
 ## 🎓 Academic Achievements & Publications (학술 활동 및 논문)
 
 -   **Leopard: Sublinear Verifier Inner Product Argument Under Discrete Logarithm Assumption**
-    -   *IEEE 43rd International Conference on Distributed Computing Systems Workshops (ICDCSW), 2023*
+    -   *IEEE Transactions on Information Forensics and Security, 2023*
     -   [[View Paper]](https://ieeexplore.ieee.org/abstract/document/10198341)
 -   **Monitoring Provenance of Delegated Personal Data with Blockchain**
-    -   *IEEE 23rd International Conference on Information Reuse and Integration for Data Science (IRI), 2022*
+    -   *2022 IEEE International Conference on Blockchain (Blockchain), 2022*
     -   [[View Paper]](https://ieeexplore.ieee.org/abstract/document/9881821)
 
 ---
