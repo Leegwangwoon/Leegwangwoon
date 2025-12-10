@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Woony's Toolkit (기술 스택)
+## 🛠️ Toolkit (기술 스택)
 
 <details>
 <summary><strong>🧑‍💻 Programming Languages</strong></summary>
