@@ -33,7 +33,7 @@ AI · LLM · Speech · Cryptography<br>
   - GPT 계열 API 활용 서비스형 챗봇
   - **RAG · Agent · Local Fine-tuning** 구조 설계
 
-- **DB & 벡터 검색**
+- **DB & 벡터DB 검색**
   - 서비스 호스팅을 위한 DB 연동 및 트랜잭션 관리
   - 텍스트·이미지 임베딩
   - **Vector DB 기반 유사도 검색 시스템**
