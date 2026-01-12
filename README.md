@@ -13,7 +13,7 @@
 
 <blockquote align="center">
 AI · LLM · Speech · Cryptography<br>
-수학적 기반 위에서 AI 시스템을 설계합니다.
+수학적 기반에서 AI 시스템을 설계합니다.
 </blockquote>
 
 <br>
