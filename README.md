@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3>수학적 이론을 바탕으로 세상의 문제를 AI로 접근하는 개발자</h3>
+  <h3>수학적 이론을 바탕으로 세상의 문제를 AI로 해결하는 개발자</h3>
   <p><b>Building Robust AI Solutions rooted in Mathematical Principles</b></p>
 </div>
 
