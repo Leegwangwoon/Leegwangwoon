@@ -1,156 +1,160 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:2d0057,100:6B21A8&height=250&section=header&text=Woony's%20AI%20Lab&fontSize=60&fontColor=E9D5FF&fontAlignY=40&desc=수학적%20이론으로%20세상을%20바꾸는%20AI%20개발자&descFontSize=18&descFontColor=C4B5FD&descAlignY=62&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/main/image/welcome3.gif" width="850">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%96+AI+Engineer+;%F0%9F%93%90+Math-based+AI+Architect;%F0%9F%94%90+ZKP+%26+Privacy+Researcher;%F0%9F%94%8A+Next-gen+Speech+Synthesis" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>수학적 이론을 바탕으로 세상의 문제를 AI로 해결하는 개발자</h3>
-  <p><b>Building Robust AI Solutions rooted in Mathematical Principles</b></p>
+  <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/main/image/welcome3.gif" width="100%">
 </div>
 
-<blockquote align="center">
-AI · LLM · Speech · Cryptography<br>
-수학적 기반에서 AI 시스템을 설계합니다.
-</blockquote>
+<br/>
 
-<br>
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Leegwangwoon&theme=dracula&column=7&margin-w=15&no-bg=true&no-frame=true" alt="trophies" />
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">📊 GitHub Overview</h2>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leegwangwoon&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leegwangwoon&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&count_private=true" />
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">🧠 About Me</h2>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="45%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leegwangwoon&theme=midnight-purple&hide_border=true&stroke=7C3AED&ring=9333EA&fire=C084FC&currStreakLabel=C084FC" />
+      </td>
+      <td width="55%">
+        <p align="left">
+          <b>Role:</b> AI Engineer & Researcher<br>
+          <b>Focus:</b> LLM · TTS · RAG · ZKP · On-premise Infrastructure<br>
+          <b>Core Strength:</b> 수학적 이론 기반의 견고한 AI 시스템 설계<br>
+          <b>Papers:</b> IEEE TIFS (2023), IEEE Blockchain (2022)<br>
+          <b>IP:</b> SW 저작권 2건 등록 완료
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 ---
 
 <h2 align="center">🚀 Tech Adventures</h2>
 
-- **TTS 모델 개발**
-  - **VITS / SoVITS** 기반 한국어 음성 합성
-  - 5,000+ 정제 음성 데이터셋 학습
-  - 자연스러운 발화 및 화자 보존 성능 개선
-  - **Zero-shot 기반 Voice Cloning**
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%"><b>🔊 Speech & OCR</b></td>
+<td>
+- <b>VITS / SoVITS</b> 기반 한국어 음성 합성 및 500+(성우 녹음 데이터 다국어 포함) 데이터셋 학습<br>
+- <b>Zero-shot Voice Cloning</b> 및 화자 보존 성능 개선<br>
+- OCR, LLM, TTS, 문서 파싱 기반 개인화 오디오북 파이프라인 구축(일본, 미국 앱스토어 등록 및 한국 컨텐츠 진흥원 과제)
+</td>
+</tr>
+<tr>
+<td align="center"><b>🤖 LLM & Agent</b></td>
+<td>
+- <b>Qwen, LLaMA</b> 기반 온프레미스 AI 인프라 설계 및 GPU 최적화<br>
+- <b>RAG · LangGraph Agent</b> 기반 도메인 특화 챗봇 구축<br>
+- 회의록 자동 요약 및 민원 응답 시스템 Fine-tuning
+</td>
+</tr>
+<tr>
+<td align="center"><b>🔐 ZKP & Research</b></td>
+<td>
+- Bulletproofs 기반 <b>Leopard 프로토콜</b> 연구 (IEEE TIFS 2023)<br>
+- 블록체인 데이터 모니터링 시스템 개발<br>
+- 이산대수 가정 하의 서브리니어 검증 프로토콜 설계
+</td>
+</tr>
+</table>
 
-- **챗봇 & 에이전트 시스템**
-  - 온프레미스 **Local LLM** 기반 챗봇 구축
-  - GPT 계열 API 활용 서비스형 챗봇
-  - **RAG · Agent · Local Fine-tuning** 구조 설계
-
-- **DB & 벡터DB 검색**
-  - 서비스 호스팅을 위한 DB 연동 및 트랜잭션 관리
-  - 텍스트·이미지 임베딩
-  - **Vector DB 기반 유사도 검색 시스템**
-
-- **AI 서비스 호스팅 및 배포**
-  - **LLM (Qwen, LLaMA)** / **TTS · STT** 로컬 최적화
-  - 온프레미스 AI 인프라 설계 및 운영
-  - 회의록 자동 요약 · 문서 기반 RAG 챗봇 · 자동 민원 응답 · OCR 오디오북
-
-- **ZKP & 블록체인 연구**
-  - 이산대수 기반 **Leopard 프로토콜** 공동 연구 *(Bulletproofs 기반)*
-  - 블록체인 데이터 모니터링 시스템 개발
-  - IEEE 논문 게재 · SW 저작권 2건 등록
+<br/>
 
 ---
 
-<h2 align="center">🛠️ Toolkit</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 🧑‍💻 Programming Languages
+<h3 align="center">🧑‍💻 Languages & Infra</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-### 🤖 AI / LLM
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface"/>
-  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-5A5A5A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/vLLM-5A2A6F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge"/>
-</p>
-
-### 🔊 Speech / OCR
-<p align="center">
-  <img src="https://img.shields.io/badge/VITS-6F42C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SoVITS-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WhisperX-5A5A5A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TTS-6F42C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STT-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Voice_Cloning-9C27B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EasyOCR-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DeepSeek_OCR-3A7CFF?style=for-the-badge"/>
-</p>
-
-### 🖥️ Backend / Infra
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector_DB-512DA8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 🔐 Cryptography / Research
+<h3 align="center">🤖 AI / LLM / Research</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/ZKP-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bulletproofs-2E7D32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Discrete_Math-512DA8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cryptography-37474F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_DB-7C3AED?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZKP-0F172A?style=for-the-badge&logo=security&logoColor=white"/>
 </p>
+
+<br/>
 
 ---
 
-<h2 align="center">🎓 Research & Publications</h2>
-
-- **Leopard: Sublinear Verifier Inner Product Argument Under Discrete Logarithm Assumption**  
-  *IEEE Transactions on Information Forensics and Security (TIFS), 2023*  
-  https://ieeexplore.ieee.org/abstract/document/10198341
-
-- **Monitoring Provenance of Delegated Personal Data with Blockchain**  
-  *IEEE International Conference on Blockchain, 2022*  
-  https://ieeexplore.ieee.org/abstract/document/9881821
-
----
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leegwangwoon&show_icons=true&theme=nord&hide_title=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leegwangwoon&bg_color=eceff4&color=3b4252&line=bf616a&point=88c0d0&area=true&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">📫 Let’s Connect</h2>
-
+<h2 align="center">📈 Activity Graph</h2>
 <div align="center">
-  <p>AI · LLM · Speech · Cryptography · Secure Systems</p>
-  <p>
-    <a href="https://www.linkedin.com/in/%EA%B4%91%EC%9A%B4-%EC%9D%B4-072355229/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://velog.io/@woony">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge">
-    </a>
-    <a href="mailto:leegwangwoon@naver.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  </p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leegwangwoon&bg_color=0d0221&color=c084fc&line=9333ea&point=e9d5ff&area=true&area_color=4c1d95&hide_border=true" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <img src="https://github.com/Leegwangwoon/Leegwangwoon/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">📫 Let's Connect</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/%EA%B4%91%EC%9A%B4-%EC%9D%B4-072355229/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://velog.io/@woony">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:leegwangwoon@naver.com">
+    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Leegwangwoon&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6B21A8,50:2d0057,100:0d0221&height=150&section=footer&reversal=true" />
 </div>
