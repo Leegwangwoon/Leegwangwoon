@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d0057,100:6B21A8&height=260&section=header&text=%20Woony&fontSize=48&fontColor=E9D5FF&fontAlignY=38&desc=math%20%E2%86%92%20cryptography%20%E2%86%92%20AI%20%E2%80%94%20same%20proof,%20different%20language&descFontSize=16&descFontColor=C4B5FD&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d0057,100:6B21A8&height=260&section=header&text=%20Woony&fontSize=48&fontColor=E9D5FF&fontAlignY=38&desc=Math%20%E2%86%92%20cryptography%20%E2%86%92%20AI%20%E2%80%94%20same%20proof,%20different%20language&descFontSize=16&descFontColor=C4B5FD&descAlignY=58&animation=fadeIn" />
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&multiline=true&width=720&height=90&lines=proving+things+since+2021+%F0%9F%94%90;shipping+things+since+2024+%F0%9F%9A%80;still+debugging+both" alt="Typing SVG" />
